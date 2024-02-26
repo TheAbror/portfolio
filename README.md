@@ -21,3 +21,11 @@
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
 
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/ee880d70-4570-4deb-8440-c1301c5fba92" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
