@@ -55,5 +55,10 @@
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/a9b418af-c372-43c3-9640-107af7faab78" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
 
+# Edu Ninja - Bachelor`s diploma project
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/7a1774db-f36f-4a16-8e98-321a4d74ae2c" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
 
 
