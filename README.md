@@ -14,3 +14,10 @@
 <p align="center">
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/cb67e3b8-b379-44af-8958-28f765a194c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
+
+# Edu App for Students
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
