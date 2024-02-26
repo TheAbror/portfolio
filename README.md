@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/abe6d5ef-976e-4eea-ae7e-a2298cfae9b1" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/cb67e3b8-b379-44af-8958-28f765a194c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
