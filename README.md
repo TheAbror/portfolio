@@ -64,6 +64,29 @@ The Qard Wallet app is a financial solution that allows users to manage their mo
 
 
 
+# Edu Ninja - Bachelor`s diploma project
+
+Edu Ninja is an educational application inside a 2D game, it contains school topics, interesting tasks and ability to collaborate with classmates. Overall aim of the project is to make the learning process interactive, adventurous, collaborative and to make learning fun. Children love playing video games instead of learning, the idea of the application is to make learning video game for kids. In the game, each student will have their own profile where there will be a list of topics, ability to filter the grade and subjects. In order to prevent it to be just playing or listening process, the following functions will be added: students will have quizzes, tasks, flash cards, ability to watch video materials,
+synchronized text chat and number of NPCs. Where one group of classmates can learn and compete together, by getting scores for each accomplished task.
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/7a1774db-f36f-4a16-8e98-321a4d74ae2c" alt="Edu Ninja Logo" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheAbror/bisp">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a> 
+</p>
+
+
+
+
+
+
+
+
+
 # Edu App for Teachers
 <p align="center">
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/fac8cbc8-de1a-47ed-9d45-f564b44ba5c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
@@ -101,10 +124,6 @@ The Qard Wallet app is a financial solution that allows users to manage their mo
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/a9b418af-c372-43c3-9640-107af7faab78" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
 
-# Edu Ninja - Bachelor`s diploma project
 
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/7a1774db-f36f-4a16-8e98-321a4d74ae2c" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
-</p>
 
 
