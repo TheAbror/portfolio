@@ -48,6 +48,19 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
   </a>
 </p>
 
+# App Qard Wallet
+
+The Qard Wallet app is a financial solution that allows users to manage their money in a dual currency format. It includes fiat currency for payments at any commercial establishment, particularly those with agreements with us, and cryptocurrencies that serve as a long-term savings reserve. The goal is to provide our customers with secure money that is immune to any global financial recession through a user-friendly digital platform.
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/47b225d9-674a-4b1f-b083-fa395a8330b5" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheAbror/dr_iq">
+    <img src="https://github.com/TheAbror/app_qard_wallet" alt="GitHub" width="50" height="50">
+  </a> 
+</p>
 
 
 
