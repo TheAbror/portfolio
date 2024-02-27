@@ -77,12 +77,15 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" style="display:block; margin:auto;">
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/TheAbror/bisp">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7114671310160486400/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="GitHub" width="50" height="50">
+  </a> 
+      <a href="https://github.com/TheAbror/bisp">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
-
 
 # Medium Articles
 
