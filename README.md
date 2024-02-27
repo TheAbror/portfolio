@@ -39,7 +39,7 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 
 
 <a href="https://github.com/TheAbror/dr_iq" align="center">
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30">
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.doctor.iq" align="center">
