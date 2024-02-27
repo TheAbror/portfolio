@@ -6,7 +6,7 @@
 
 🎓 Throughout my career, I've been privileged to work on various projects within the EdTech domain, each showcasing my commitment to driving positive change through technology. From creating immersive learning experiences to streamlining educational workflows, I'm passionate about leveraging the latest tools and methodologies to shape the future of education.
 
-🔍 In this portfolio, you'll find a collection of my projects, all centered around EdTech innovation. Whether it's developing interactive mobile apps for students or building robust backend systems for educational platforms, each project reflects my dedication to excellence and my drive to make a meaningful impact in the world of education.
+🔍 In this portfolio, you'll find a collection of my projects, most centered around EdTech innovation. Whether it's developing interactive mobile apps for students or building robust backend systems for educational platforms, each project reflects my dedication to excellence and my drive to make a meaningful impact in the world of education.
 
 💡 I believe that technology has the power to revolutionize education and unlock limitless opportunities for learners worldwide. By combining my expertise in mobile development with my passion for EdTech, I'm committed to pushing the boundaries of what's possible and creating transformative learning experiences for all.
 
