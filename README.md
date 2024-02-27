@@ -16,15 +16,14 @@
 
 Welcome to DR.IQ, your go-to app for enhancing your intelligence quotient through a variety of engaging IQ tests, insightful explanations, and productivity tools.
 
-## Features
-
 ### IQ Tests
 DR.IQ offers a collection of diverse IQ tests designed to challenge and stimulate your cognitive abilities. With questions sourced from "The Ultimate IQ Test Book" by Philip Carter & Ken Russell, as well as engaging "What am I?" Riddles from various creators, you can trust the quality and diversity of the content.
 
 ### History Tracking
 Keep track of your progress over time with our intuitive history page. Beautifully crafted charts and statistics provide a visual representation of your IQ scores, allowing you to monitor your improvement.
-
-![Alt Text](https://github.com/TheAbror/dr_iq/assets/60324587/9799357c-97d0-4e5f-ba42-0bd98d0fab38)
+<p align="center">
+    <img src="https://github.com/TheAbror/dr_iq/assets/60324587/9799357c-97d0-4e5f-ba42-0bd98d0fab38" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
 
 ### Todo Page
 Stay organized and boost your productivity with the Todo page. Jot down notes and tasks, underline or delete them as you accomplish your goals. DR.IQ is not just about IQ tests; it's about empowering your mind in all aspects of life.
