@@ -38,13 +38,16 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 </p>
 
 
-<a href="https://github.com/TheAbror/dr_iq" align="center">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/TheAbror/dr_iq">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.doctor.iq" align="center">
-  <img src="https://camo.githubusercontent.com/c4912b43ec62ed081bab21d45ad08374d2cfc663eb99ea27dbe9211f79ec30af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61792053746f72652d3030383735663f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Google Play" width="150" height="50">
-</a>
+  <a href="https://play.google.com/store/apps/details?id=com.doctor.iq">
+    <img src="https://camo.githubusercontent.com/c4912b43ec62ed081bab21d45ad08374d2cfc663eb99ea27dbe9211f79ec30af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61792053746f72652d3030383735663f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Google Play" width="150" height="50">
+  </a>
+</div>
+
 
 
 # Edu App for Teachers
