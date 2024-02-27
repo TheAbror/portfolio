@@ -90,7 +90,7 @@ I've authored several insightful articles on Flutter topics, which are featured 
 
 <p align="center">
   <a href="https://medium.com/@oyjddkvj">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/2560px-Medium_%28website%29_logo.svg.png" alt="GitHub" width="50" height="50">
+    <img src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" alt="GitHub" width="50" height="50">
   </a> 
 </p>
 
