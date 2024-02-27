@@ -12,6 +12,8 @@
 
 🌟 Thank you for joining me on this journey! Feel free to explore my projects and reach out if you'd like to collaborate or learn more about my work.
 
+
+
 # DR.IQ - Boost Your Intelligence Quotient
 
 Welcome to DR.IQ, your go-to app for enhancing your intelligence quotient through a variety of engaging IQ tests, insightful explanations, and productivity tools.
@@ -34,6 +36,16 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 <p align="center">
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/e20259c9-4958-458a-996b-2d2a57418088" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
+
+
+<a href="https://github.com/TheAbror/dr_iq" align="center">
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub" width="30" height="30">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.doctor.iq" align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play" width="30" height="30">
+</a>
+
 
 # Edu App for Teachers
 <p align="center">
