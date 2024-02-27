@@ -57,8 +57,8 @@ The Qard Wallet app is a financial solution that allows users to manage their mo
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheAbror/dr_iq">
-    <img src="https://github.com/TheAbror/app_qard_wallet" alt="GitHub" width="50" height="50">
+  <a href="https://github.com/TheAbror/app_qard_wallet">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
 
