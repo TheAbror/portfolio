@@ -105,7 +105,7 @@ I've authored several insightful articles on Flutter topics, which are featured 
 
 
 
-# Edu App for Students
+# My UDEA for Students
 
 Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
 
