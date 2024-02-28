@@ -87,19 +87,34 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
   </a> 
 </p>
 
-# Medium Articles
 
-I've authored several insightful articles on Flutter topics, which are featured on Medium. Covering a range of subjects related to Flutter development, these articles offer valuable insights, tutorials, and best practices for developers. While I currently have two articles published, I'm continuously expanding my portfolio with plans to contribute more in the future. My goal is to share knowledge, simplify complex concepts, and inspire fellow developers to explore the vast potential of Flutter.
+
+
+
+# Safar App
+
+Safar is a versatile application designed for the taxi and delivery industry, tailored specifically for the Uzbekistan market. It provides a platform where users and drivers can seamlessly interact, enabling users to request transportation services or schedule item deliveries, while allowing drivers to offer their services and share their availability for rides or deliveries.
+
+## Features
+- **User Interaction**: Users can easily request taxi rides or schedule item deliveries through the Safar app.
+- **Driver Engagement**: Drivers can publish their routes, indicating their starting point, destination, and available space for additional passengers or items to be delivered.
+- **Real-time Updates**: Users and drivers receive real-time updates on ride or delivery requests, ensuring efficient communication and coordination.
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/f1d9306c-8e82-4841-835b-6a14a0f3df71" alt="Medium Articles Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/92de2625-fe3d-43a0-9231-35dcbf55e934" alt="Safar Logo" style="display:block; margin:auto;">
 </p>
-
 <p align="center">
-  <a href="https://medium.com/@oyjddkvj">
-    <img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium Logo" width="200" height="50">
+      <a href="https://github.com/TheAbror/Safar">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
+
+
+
+
+
+
+
 
 
 
@@ -172,3 +187,26 @@ Experience the next level of convenience and efficiency in your academic life.
 
 
 
+
+
+
+
+
+
+
+
+
+
+# Medium Articles
+
+I've authored several insightful articles on Flutter topics, which are featured on Medium. Covering a range of subjects related to Flutter development, these articles offer valuable insights, tutorials, and best practices for developers. While I currently have two articles published, I'm continuously expanding my portfolio with plans to contribute more in the future. My goal is to share knowledge, simplify complex concepts, and inspire fellow developers to explore the vast potential of Flutter.
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/f1d9306c-8e82-4841-835b-6a14a0f3df71" alt="Medium Articles Logo" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@oyjddkvj">
+    <img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium Logo" width="200" height="50">
+  </a> 
+</p>
