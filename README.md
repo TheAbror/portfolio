@@ -97,7 +97,7 @@ I've authored several insightful articles on Flutter topics, which are featured 
 
 <p align="center">
   <a href="https://medium.com/@oyjddkvj">
-    <img src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" alt="GitHub" width="50" height="50">
+    <img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium Logo" width="200" height="50">
   </a> 
 </p>
 
