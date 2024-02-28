@@ -132,15 +132,15 @@ Welcome to the My UDEA – your one-stop solution for seamless academic manageme
 Experience the next level of convenience and efficiency in your academic life.
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="My UDEA photos" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="My UDEA " style="display:block; margin:auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="My UDEA" style="display:block; margin:auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/ee880d70-4570-4deb-8440-c1301c5fba92" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/e622169b-d0b2-4adc-98a4-136b2eb4ca8c" alt="My UDEA" style="display:block; margin:auto;">
 </p>
 
 
