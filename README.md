@@ -103,19 +103,21 @@ I've authored several insightful articles on Flutter topics, which are featured 
 
 
 
-# Edu App for Teachers
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/fac8cbc8-de1a-47ed-9d45-f564b44ba5c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
-</p>
 
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/cb67e3b8-b379-44af-8958-28f765a194c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
-</p>
 
 # Edu App for Students
 
+Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
+
+- Learning Materials: Download and access course materials anytime, anywhere.
+- Timetable: Stay on top of your schedule with a convenient timetable view.
+- Marks and Attendance: Monitor your academic progress and attendance records with ease.
+- Personal Info: Update and manage your personal information effortlessly.
+- Secure Access: Enhance privacy by setting a PIN code for the app.
+Experience the next level of convenience and efficiency in your academic life.
+
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="My UDEA photos" style="display:block; margin:auto;">
 </p>
 
 <p align="center">
@@ -125,6 +127,33 @@ I've authored several insightful articles on Flutter topics, which are featured 
 <p align="center">
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/ee880d70-4570-4deb-8440-c1301c5fba92" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
 </p>
+
+
+<p align="center">
+  <a href="https://apps.apple.com/pl/app/my-udea/id6475400506">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
+  </a> 
+      <a href="https://github.com/TheAbror/EDU-APP">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a> 
+</p>
+
+
+
+
+
+# Edu App for Teachers
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/fac8cbc8-de1a-47ed-9d45-f564b44ba5c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/cb67e3b8-b379-44af-8958-28f765a194c7" alt="DOCTOR IQ Logo" style="display:block; margin:auto;">
+</p>
+
+
+
+
 
 # Exam for Teachers
 
