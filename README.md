@@ -55,6 +55,40 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 
 
 
+# My UDEA for Students
+
+Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
+
+- Learning Materials: Download and access course materials anytime, anywhere.
+- Timetable: Stay on top of your schedule with a convenient timetable view.
+- Marks and Attendance: Monitor your academic progress and attendance records with ease.
+- Personal Info: Update and manage your personal information effortlessly.
+- Secure Access: Enhance privacy by setting a PIN code for the app.
+Experience the next level of convenience and efficiency in your academic life.
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="My UDEA " style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="My UDEA" style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/e622169b-d0b2-4adc-98a4-136b2eb4ca8c" alt="My UDEA" style="display:block; margin:auto;">
+</p>
+
+
+<p align="center">
+  <a href="https://apps.apple.com/pl/app/my-udea/id6475400506">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
+  </a> 
+      <a href="https://github.com/TheAbror/EDU-APP">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a> 
+</p>
+
+
 
 
 # App Qard Wallet
@@ -67,6 +101,26 @@ The Qard Wallet app is a financial solution that allows users to manage their mo
 
 <p align="center">
   <a href="https://github.com/TheAbror/app_qard_wallet">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a> 
+</p>
+
+
+
+# Safar App
+
+Safar is a versatile application designed for the taxi and delivery industry, tailored specifically for the Uzbekistan market. It provides a platform where users and drivers can seamlessly interact, enabling users to request transportation services or schedule item deliveries, while allowing drivers to offer their services and share their availability for rides or deliveries.
+
+## Features
+- **User Interaction**: Users can easily request taxi rides or schedule item deliveries through the Safar app.
+- **Driver Engagement**: Drivers can publish their routes, indicating their starting point, destination, and available space for additional passengers or items to be delivered.
+- **Real-time Updates**: Users and drivers receive real-time updates on ride or delivery requests, ensuring efficient communication and coordination.
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/92de2625-fe3d-43a0-9231-35dcbf55e934" alt="Safar Logo" style="display:block; margin:auto;">
+</p>
+<p align="center">
+      <a href="https://github.com/TheAbror/Safar">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
@@ -100,23 +154,6 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
 
 
 
-# Safar App
-
-Safar is a versatile application designed for the taxi and delivery industry, tailored specifically for the Uzbekistan market. It provides a platform where users and drivers can seamlessly interact, enabling users to request transportation services or schedule item deliveries, while allowing drivers to offer their services and share their availability for rides or deliveries.
-
-## Features
-- **User Interaction**: Users can easily request taxi rides or schedule item deliveries through the Safar app.
-- **Driver Engagement**: Drivers can publish their routes, indicating their starting point, destination, and available space for additional passengers or items to be delivered.
-- **Real-time Updates**: Users and drivers receive real-time updates on ride or delivery requests, ensuring efficient communication and coordination.
-
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/92de2625-fe3d-43a0-9231-35dcbf55e934" alt="Safar Logo" style="display:block; margin:auto;">
-</p>
-<p align="center">
-      <a href="https://github.com/TheAbror/Safar">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
-  </a> 
-</p>
 
 
 
@@ -126,41 +163,6 @@ Safar is a versatile application designed for the taxi and delivery industry, ta
 
 
 
-
-
-
-# My UDEA for Students
-
-Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
-
-- Learning Materials: Download and access course materials anytime, anywhere.
-- Timetable: Stay on top of your schedule with a convenient timetable view.
-- Marks and Attendance: Monitor your academic progress and attendance records with ease.
-- Personal Info: Update and manage your personal information effortlessly.
-- Secure Access: Enhance privacy by setting a PIN code for the app.
-Experience the next level of convenience and efficiency in your academic life.
-
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/dde5251f-0c08-44e8-b131-80335bf6ed64" alt="My UDEA " style="display:block; margin:auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="My UDEA" style="display:block; margin:auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/e622169b-d0b2-4adc-98a4-136b2eb4ca8c" alt="My UDEA" style="display:block; margin:auto;">
-</p>
-
-
-<p align="center">
-  <a href="https://apps.apple.com/pl/app/my-udea/id6475400506">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
-  </a> 
-      <a href="https://github.com/TheAbror/EDU-APP">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
-  </a> 
-</p>
 
 
 
