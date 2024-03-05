@@ -196,7 +196,7 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" width="300" style="display:block; margin:auto;">
 </p>
 
 
