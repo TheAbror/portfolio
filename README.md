@@ -87,6 +87,68 @@ Experience the next level of convenience and efficiency in your academic life.
 
 
 
+# ISFT LMS 
+
+Welcome to ISFT LMS – your comprehensive intranet platform designed to streamline academic management for universities. Whether you're a student or faculty member, ISFT LMS offers a suite of powerful features to keep you organized and connected throughout your academic journey:
+
+- **Learning Resources**: Access and download course materials anytime, anywhere, ensuring you have the resources you need to excel in your studies.
+- **Timetable Management**: Stay informed and organized with a convenient timetable view, allowing you to manage your schedule efficiently and effectively.
+- **Progress Tracking**: Monitor your academic progress, including grades and attendance records, with intuitive tools that make tracking and managing your performance a breeze.
+- **Personal Profile**: Update and manage your personal information effortlessly, ensuring that your profile is always up-to-date.
+- **Enhanced Security**: Protect your privacy and data with secure access features, including the option to set a PIN code for the app, providing you with peace of mind.
+
+Experience the next level of convenience and efficiency in your academic life with ISFT LMS. Join us and embark on a journey towards academic excellence and success.
+
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/f6f82c9b-aeb6-443a-abac-260b3bb05180" alt="isft light " style="display:block; margin:auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/63a0b91d-edb7-4b20-be24-c73bda550dd0" alt="isft dark" style="display:block; margin:auto;">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/TheAbror/isft">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a>
+
+   <a href="https://apps.apple.com/uz/app/isft-lms/id6478830856">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
+  </a> 
+  
+  <a href="https://play.google.com/store/apps/details?id=dev.slashdash.edulab.isft">
+    <img src="https://camo.githubusercontent.com/c4912b43ec62ed081bab21d45ad08374d2cfc663eb99ea27dbe9211f79ec30af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61792053746f72652d3030383735663f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Google Play" width="150" height="50">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # App Qard Wallet
 
