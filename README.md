@@ -76,7 +76,7 @@ Experience the next level of convenience and efficiency in your academic life.
 </p>
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/a682752c-c05c-476d-89bd-290cc97d97ea" alt="My UDEA" style="display:block; margin:auto;">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/3f659844-096a-48e8-9712-8d0d15a47562" alt="My UDEA" style="display:block; margin:auto;">
 </p>
 
 
