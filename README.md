@@ -220,11 +220,12 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/7a1774db-f36f-4a16-8e98-321a4d74ae2c" alt="Edu Ninja Logo" style="display:block; margin:auto;">
 </p>
 
+<p align="center">
+  <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" width="500" style="display:block; margin:auto;">
+</p>
+
 
 <p align="center">
-  <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" width="300" style="display:block; margin:auto;">
-  </p>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7114671310160486400/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="GitHub" width="50" height="50">
   </a> 
