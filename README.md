@@ -55,6 +55,11 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 
 
 
+
+
+
+
+
 # My UDEA for Students
 
 Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
@@ -84,6 +89,12 @@ Experience the next level of convenience and efficiency in your academic life.
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
+
+
+
+
+
+
 
 
 
@@ -166,6 +177,12 @@ The Qard Wallet app is a financial solution that allows users to manage their mo
 
 
 
+
+
+
+
+
+
 # Safar App
 
 Safar is a versatile application designed for the taxi and delivery industry, tailored specifically for the Uzbekistan market. It provides a platform where users and drivers can seamlessly interact, enabling users to request transportation services or schedule item deliveries, while allowing drivers to offer their services and share their availability for rides or deliveries.
@@ -186,6 +203,14 @@ Safar is a versatile application designed for the taxi and delivery industry, ta
 
 
 
+
+
+
+
+
+
+
+
 # Edu Ninja - Bachelor`s diploma project
 
 Edu Ninja is an educational application inside a 2D game, it contains school topics, interesting tasks and ability to collaborate with classmates. Overall aim of the project is to make the learning process interactive, adventurous, collaborative and to make learning fun. Children love playing video games instead of learning, the idea of the application is to make learning video game for kids. In the game, each student will have their own profile where there will be a list of topics, ability to filter the grade and subjects. In order to prevent it to be just playing or listening process, the following functions will be added: students will have quizzes, tasks, flash cards, ability to watch video materials,
@@ -195,16 +220,15 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/7a1774db-f36f-4a16-8e98-321a4d74ae2c" alt="Edu Ninja Logo" style="display:block; margin:auto;">
 </p>
 
+
 <p align="center">
+  <p align="center">
   <img src="https://github.com/TheAbror/portfolio/assets/60324587/6cbdebcb-45ef-470b-adfc-e66260b2a020" alt="Edu Ninja Logo" width="300" style="display:block; margin:auto;">
-</p>
-
-
-<p align="center">
+  </p>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7114671310160486400/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="GitHub" width="50" height="50">
   </a> 
-      <a href="https://github.com/TheAbror/bisp">
+  <a href="https://github.com/TheAbror/bisp">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 </p>
