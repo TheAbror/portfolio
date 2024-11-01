@@ -58,8 +58,6 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
 
 
 
-
-
 # My UDEA for Students
 
 Welcome to the My UDEA – your one-stop solution for seamless academic management. Whether you're a student or faculty member, stay organized and connected with a range of powerful features:
@@ -82,12 +80,15 @@ Experience the next level of convenience and efficiency in your academic life.
 
 
 <p align="center">
-  <a href="https://apps.apple.com/pl/app/my-udea/id6475400506">
+  <a href="https://github.com/TheAbror/EDU-APP">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a>  
+ <a href="https://apps.apple.com/pl/app/my-udea/id6475400506">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
   </a> 
-      <a href="https://github.com/TheAbror/EDU-APP">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
-  </a> 
+  <a href="https://play.google.com/store/apps/details?id=uz.udea.my">
+    <img src="https://static-00.iconduck.com/assets.00/google-play-icon-256x256-op8ild6e.png" alt="Google Play" width="50" height="50">
+  </a>
 </p>
 
 
