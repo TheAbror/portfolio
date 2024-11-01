@@ -48,7 +48,7 @@ Gain a deeper understanding of IQ and cognitive abilities through our dedicated 
   </a> 
   
   <a href="https://play.google.com/store/apps/details?id=com.doctor.iq">
-    <img src="https://iconape.com/wp-content/files/ws/380442/png/380442.png" alt="Google Play" width="150" height="50">
+    <img src="https://e7.pngegg.com/pngimages/530/733/png-clipart-goggle-playstore-icon-google-play-computer-icons-android-play-button-angle-rectangle.png" alt="Google Play" width="150" height="50">
   </a>
 </p>
 
