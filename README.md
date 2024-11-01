@@ -200,7 +200,7 @@ Safar is a versatile application designed for the taxi and delivery industry, ta
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
   </a> 
 
-   <a href="https://apps.apple.com/us/app/doctor-iq/id6475822023](https://apps.apple.com/uz/app/safar-app/id6499126209">
+   <a href="https://apps.apple.com/uz/app/safar-app/id6499126209">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
   </a> 
 </p>
