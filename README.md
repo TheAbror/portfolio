@@ -131,7 +131,7 @@ Experience the next level of convenience and efficiency in your academic life wi
   </a> 
   
   <a href="https://play.google.com/store/apps/details?id=dev.slashdash.edulab.isft">
-    <img src="https://camo.githubusercontent.com/c4912b43ec62ed081bab21d45ad08374d2cfc663eb99ea27dbe9211f79ec30af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61792053746f72652d3030383735663f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="Google Play" width="150" height="50">
+    <img src="https://static-00.iconduck.com/assets.00/google-play-icon-256x256-op8ild6e.png" alt="Google Play" width="50" height="50">
   </a>
 </p>
 
