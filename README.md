@@ -146,6 +146,43 @@ Experience the next level of convenience and efficiency in your academic life wi
 
 
 
+# TEAM University
+
+Welcome to TEAM University – your comprehensive intranet platform designed to streamline academic management for universities. Whether you're a student or faculty member, ISFT LMS offers a suite of powerful features to keep you organized and connected throughout your academic journey:
+
+- **Learning Resources**: Access and download course materials anytime, anywhere, ensuring you have the resources you need to excel in your studies.
+- **Timetable Management**: Stay informed and organized with a convenient timetable view, allowing you to manage your schedule efficiently and effectively.
+- **Progress Tracking**: Monitor your academic progress, including grades and attendance records, with intuitive tools that make tracking and managing your performance a breeze.
+- **Personal Profile**: Update and manage your personal information effortlessly, ensuring that your profile is always up-to-date.
+- **Enhanced Security**: Protect your privacy and data with secure access features, including the option to set a PIN code for the app, providing you with peace of mind.
+
+Experience the next level of convenience and efficiency in your academic life with ISFT LMS. Join us and embark on a journey towards academic excellence and success.
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ff9b422-0cbb-4784-abcb-14e55c03c207" alt="TEAM University" style="display:block; margin:auto;">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/TheAbror/isft">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50">
+  </a>
+
+   <a href="https://apps.apple.com/uz/app/team-university/id6733244853">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/768px-App_Store_%28iOS%29.svg.png" alt="App Store" width="50" height="50">
+  </a> 
+  
+  <a href="https://play.google.com/store/apps/details?id=uz.team_uni.team_mobile">
+    <img src="https://static-00.iconduck.com/assets.00/google-play-icon-256x256-op8ild6e.png" alt="Google Play" width="50" height="50">
+  </a>
+</p>
+
+
+
+
+
 
 
 
