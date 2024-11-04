@@ -148,16 +148,13 @@ Experience the next level of convenience and efficiency in your academic life wi
 
 # TEAM University
 
-Welcome to TEAM University – your comprehensive intranet platform designed to streamline academic management for universities. Whether you're a student or faculty member, ISFT LMS offers a suite of powerful features to keep you organized and connected throughout your academic journey:
+Welcome to TEAM University – your comprehensive intranet platform designed to streamline academic management for universities. Whether you're a student or faculty member, TEAM University offers a suite of powerful features to keep you organized and connected throughout your academic journey:
 
 - **Learning Resources**: Access and download course materials anytime, anywhere, ensuring you have the resources you need to excel in your studies.
 - **Timetable Management**: Stay informed and organized with a convenient timetable view, allowing you to manage your schedule efficiently and effectively.
 - **Progress Tracking**: Monitor your academic progress, including grades and attendance records, with intuitive tools that make tracking and managing your performance a breeze.
 - **Personal Profile**: Update and manage your personal information effortlessly, ensuring that your profile is always up-to-date.
 - **Enhanced Security**: Protect your privacy and data with secure access features, including the option to set a PIN code for the app, providing you with peace of mind.
-
-Experience the next level of convenience and efficiency in your academic life with ISFT LMS. Join us and embark on a journey towards academic excellence and success.
-
 
 
 <p align="center">
