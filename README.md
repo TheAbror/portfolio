@@ -70,12 +70,10 @@ Welcome to the My UDEA – your one-stop solution for seamless academic manageme
 Experience the next level of convenience and efficiency in your academic life.
 
 <p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/1ded2fd9-2f90-4c9b-a6e8-3ad692c4a105" alt="My UDEA " style="display:block; margin:auto;">
+  <img src="https://github.com/user-attachments/assets/0d34335b-6a8d-496e-b053-ab75853747e2" alt="My UDEA " style="display:block; margin:auto;">
 </p>
 
-<p align="center">
-  <img src="https://github.com/TheAbror/portfolio/assets/60324587/3f659844-096a-48e8-9712-8d0d15a47562" alt="My UDEA" style="display:block; margin:auto;">
-</p>
+
 
 
 
