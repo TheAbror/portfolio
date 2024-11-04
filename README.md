@@ -330,7 +330,7 @@ synchronized text chat and number of NPCs. Where one group of classmates can lea
 
 
 
-
+<!-- 
 # Medium Articles
 
 I've authored several insightful articles on Flutter topics, which are featured on Medium. Covering a range of subjects related to Flutter development, these articles offer valuable insights, tutorials, and best practices for developers. While I currently have two articles published, I'm continuously expanding my portfolio with plans to contribute more in the future. My goal is to share knowledge, simplify complex concepts, and inspire fellow developers to explore the vast potential of Flutter.
@@ -344,3 +344,4 @@ I've authored several insightful articles on Flutter topics, which are featured 
     <img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium Logo" width="200" height="50">
   </a> 
 </p>
+-->
